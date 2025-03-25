@@ -1,0 +1,1 @@
+- [ ] I have read the [Contributing Guide](https://github.com/NilFoundation/nil/blob/main/CONTRIBUTION-GUIDE.md)
