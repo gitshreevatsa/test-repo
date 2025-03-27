@@ -28,10 +28,10 @@ Related to #[Issue Number]
 
 ## ✅ Checklist
 
-- [ ] I have read and followed the [Contributing Guide](../CONTRIBUTION-GUIDE.md)
-- [ ] I have tested the changes locally
-- [ ] I have added relevant tests (if applicable)
-- [ ] I have updated documentation/comments (if applicable)
+- [] I have read and followed the [Contributing Guide](../CONTRIBUTION-GUIDE.md)
+- [] I have tested the changes locally
+- [] I have added relevant tests (if applicable)
+- [] I have updated documentation/comments (if applicable)
 
 ---
 
